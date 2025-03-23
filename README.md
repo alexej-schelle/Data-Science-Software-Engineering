@@ -3,8 +3,8 @@ Ein zentraler Bestandteil von Data Science ist die Wertschöpfung aus Daten. Die
 
 # Themen geordnet nach Units
 - Einheit 1: Einführng in Data Science
-- Einheit 2: Reading Data from CSV and MySQL with Pandas
-- Einheit 3: Machine Learning Konzepte in Python
+- Einheit 2: Einlesen von Data aus CSV und MySQL mit Pandas und SQL/MySQL
+- Einheit 3: Elementare Machine Learning Konzepte in Python
 - Einheit 4: Hauptkomponentenanalyse mit einem Beispieldatensatz 
 - Einheit 5: Neuronales Netzwerk Modell zur Vorhersage von Daten
   
