@@ -18,12 +18,12 @@ Ein zentraler Bestandteil von Data Science ist die Wertschöpfung aus Daten. Die
     Download files at https://github.com/alexej-schelle/Data-Science-Software-Engineering.git and start the software with the corresponding Python files
 ***********************************************************************************************************************************************************
 
-# Documentation auf Linux, Mac and Windows Kernel
+# Dokumentation auf Linux, Mac und Windows Kernel
 *****************************************************************************************************************
     git clone https://github.com/alexej-schelle/Data-Science-Software-Engineering.git and read docs/README.txt
 *****************************************************************************************************************
 
-# Documentierte Szenarien
+# Dokumentierte Szenarien
 *****************************************************************************************************************************
 
    Please visit https://constructor.university/ or ask at alexej.schelle.ext@iu.org or at aschelle@constructor.university
