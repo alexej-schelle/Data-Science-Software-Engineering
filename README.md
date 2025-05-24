@@ -4,8 +4,8 @@ Ein zentraler Bestandteil von Data Science ist die Wertschöpfung aus Daten. Die
 # Themen geordnet nach Units
 - Einheit 1: Einführung in Data Science (Skript zur Vorlesung)
 - Einheit 2: Einlesen von Data aus CSV und MySQL mit Pandas und SQL/MySQL (SQL-Analysis)
-- Einheit 3: Elementare Machine Learning Konzepte in Python (DIGITS Notebooks)
-- Einheit 4: Hauptkomponentenanalyse mit einem Beispieldatensatz (IRIS Notebook)
+- Einheit 3: Elementare Machine Learning Konzepte in Python (DIAMONDS Notebook)
+- Einheit 4: Hauptkomponentenanalyse mit einem Beispieldatensatz (IRIS & DIGITS Notebook)
 - Einheit 5: Neuronales Netzwerk Modell zur Vorhersage von Daten (GenerativeDataScience, Neuron-Model, NeuronModelEnergy)
   
 # Installation unter Linux oder Mac Kernel
